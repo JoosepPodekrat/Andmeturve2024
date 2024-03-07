@@ -34,7 +34,8 @@ Paroolid: ut, ati, hack
 1b)
 Siin tuleks encrypted = räsiga ära vahetada, et leida konkreetne parool, hetkel on viimane neist seal sees.
 Itereerimiseks on ilmselt lihtsamaid viise, kuid see töötab, seega pole põhjust optimiseerida nii väikeste paroolide jaoks.
--------------                                     
+------------
+
 import string, crypt 
 encrypted = '$6$SomethingHere$L5zuxicIHC90jGVZ9xgoOjUw36DjduwH1nPGJ.uwcgLqCvhlGe6wWp55eojE9jAIXxD>
 salt = encrypted.rsplit("$", 1)[0]
