@@ -63,3 +63,14 @@ for i in passwdlist:
 
 <img width="251" alt="image" src="https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/7731abf0-6d29-406a-8086-11223df7e3a2">
 Paroolid: hd, led, asdf
+
+## 2)
+anekdoot         (test1)
+kasutaja         (mustikas)
+praktiku         (polt)
+valimise         (kaposta)
+
+## 3) Sain sisse enda Martikkli ja parooliga: library
+<img width="960" alt="image" src="https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/dad35948-1262-4e97-a1d2-fcd055b81b95">
+## 4) Lõin andmebaasi Keepassis ja lisasin välja
+<img width="777" alt="image" src="https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/829c515a-9e8d-472d-a4ef-55feabb62117">
