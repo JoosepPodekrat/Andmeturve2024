@@ -7,10 +7,8 @@ W98 viiruste uurimine ja nendest lahti saamine.
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/46def63c-97cb-4fd9-b2fb-d80ce2e42fff)
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/f70d7ed7-4146-462a-b4ac-6821fa265d95)
 Kõige olulisem 2017 tõmmatud programm on ilmselt see, terve hunnik DLL-e jms hooldustöid.
-1) Halva Opseci tõttu saadakse suurem osa hackereid kätte.
-2) Viirused võivad olla asümptomaatilised, nagu pärisviirused, kuni jõuavad oma valitud hosti sisse.
-3) Telefonide nähtavad tähed paroole tippides on väga suur turvarisk, isegi, kui keegi ei jälgi ekraani ennast.
-4) Suurimatel hackeritel on üldiselt arenenud oskus teismelisena, ning neil on väga suur tõenäosus olla autismi spektrumil.
-5) 5)
-
-
+Hypponen (viruses): Halva Opseci tõttu saadakse suurem osa hackereid kätte.
+Langner (stuxnet): Viirused võivad olla asümptomaatilised, nagu pärisviirused, kuni jõuavad oma valitud hosti sisse.
+Rubin (hacking): Telefonide nähtavad tähed paroole tippides on väga suur turvarisk, isegi, kui keegi ei jälgi ekraani ennast.
+Glenny (hackers): Suurimatel hackeritel on üldiselt arenenud oskus teismelisena, ning neil on väga suur tõenäosus olla autismi spektrumil.
+Myrstad (privacy):
