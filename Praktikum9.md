@@ -11,4 +11,4 @@ Hypponen (viruses): Halva Opseci tõttu saadakse suurem osa hackereid kätte.
 Langner (stuxnet): Viirused võivad olla asümptomaatilised, nagu pärisviirused, kuni jõuavad oma valitud hosti sisse.
 Rubin (hacking): Telefonide nähtavad tähed paroole tippides on väga suur turvarisk, isegi, kui keegi ei jälgi ekraani ennast.
 Glenny (hackers): Suurimatel hackeritel on üldiselt arenenud oskus teismelisena, ning neil on väga suur tõenäosus olla autismi spektrumil.
-Myrstad (privacy):
+Myrstad (privacy): Erinevate ToS sisse on üldiselt kirjutatud, et kõik mis nende äpis toimub, sellele on täielik kasutusõigus äppi loojatel.
