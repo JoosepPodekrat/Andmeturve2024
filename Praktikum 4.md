@@ -1,7 +1,4 @@
-1) ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/36249cba-6f4d-45e8-a524-767afc3f4486)
-1.1) ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/0faebf42-a127-49ff-b18c-54fc449bce8d)
-
-
+1) ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/30649204-a18c-4ee5-9905-cabd1c4eed43)
 2)![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/9d372760-2295-4e1a-a1fd-cc460db3caea)
 3.1) Authentication-Results: spf=pass (sender IP is 193.40.5.67) Kinnitab õiget, saaks IP-ga kontrollida
 3.2)smtp.mailfrom=ut.ee; dkim=pass (signature was verified) Kinnitab õiget, signature verified ja mailfrom= TÜ email
