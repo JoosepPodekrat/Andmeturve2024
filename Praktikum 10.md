@@ -5,11 +5,15 @@ Praktikum 10 teooria pool:
 Kolm rünnakut, IPv6s:
 Router advertisementi võltsimine - IPv6 kasutab RA sõnumeid, et ruuteritega suhelda, mis luba  võltsitud sõnumite saatmine,
 et liiklust ümber suunata ja andmeid muuta või pealt kuuulata.
+<br>
 Neighbor Discovery Protocoli võltsimine - IPv6 ühes võrgus olevate seadmete tuvastamise meetod, mida ründaja võib ära kasutada võltsitud NDP sõnumeid saates, 
 näiteks man in the middle või DoS rünnakuga.
+<br>
 Ühenduste piiramine - Automaatsete rünnakute eest kaitsta on raskem, sest IPv6 aadressid on pikemad, ning ründeid võib tulla miljarditelt erinevatelt aadressidelt, mille vastu kaitsta on suhteliselt raske.
+<br>
 Teistsugune protokoll - Kasutajate kogematus IPv6 kasutamisel tähendab, et on suur tõenäosus jätte kogemata mingi kaitsetegevus tegemata, sest IPv4-jal sellist nõrkust ei olnud,
 kuigi see pole otseselt protokolli süü, on see ikkagi nõrkuskoht.
+<br>
 2. ARP spoof rünnaku vaste IPv6 aadressiruumis on Neighbor Discovery Protocol
 (NDP) spoofing rünnak. IPv6 kasutab NDP protseduuri IP-aadresside ja
 MAC-aadresside seostamiseks, mille asemel ründaja võib edastada võltsitud sõnumeid, et suunata liiklus läbi enda masina, ehk man in the middle rünnak.
