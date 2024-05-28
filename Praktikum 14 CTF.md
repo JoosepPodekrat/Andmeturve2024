@@ -12,5 +12,8 @@ secret header
 Curl koos käsklustega, mis liiguvad uutele lehtedele tagastas algse stringi, mille ROT13 decoreriga sain vastuseks.
 curl -L -X POST -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64)" http://shared.target05:1235/page.php -i
 flg 943c46ee-3336-48af-bb74-459b0f303907
+API 
+![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/f9363933-6b3f-4297-93b0-67c8333eb9fe)
+![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/2ea37cfa-e5ae-4a5a-b232-2821bceaab36)
 
-
+flg b5d7407c-1afb-42d6-aef4-40b94733aad9
