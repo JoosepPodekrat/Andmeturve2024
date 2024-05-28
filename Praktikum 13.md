@@ -12,7 +12,7 @@ HTML kood, mis failis olema peaks:
 	<button>submit</button>
 </form>
 ```
-<br>
+Pärast sellel lehel nupu vajutamist ja paketti kinni püüdmist peaks vastus olema loetav zapis inimloetaval kujul.
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/95c22a2f-05fd-4956-944a-8c154ecb82d6)
 
 
