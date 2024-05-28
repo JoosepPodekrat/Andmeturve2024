@@ -16,7 +16,7 @@ curl -L -X POST -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64)" http://shared.t
 flg 943c46ee-3336-48af-bb74-459b0f303907
 <br>
 <br>
-API 
+API) lahenduskäik on piltidel
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/f9363933-6b3f-4297-93b0-67c8333eb9fe)
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/2ea37cfa-e5ae-4a5a-b232-2821bceaab36)
 
@@ -25,5 +25,10 @@ flg b5d7407c-1afb-42d6-aef4-40b94733aad9
 Mailbox
 <br>
 Kasutasin selle jaoks .sh skripti, mis proovis kõikide võimalike openssl decryption meetoditega murda koodi kasutades parooli ja siis printis välja, kui dekrüpteerimine läbi läks. Kuigi enamus vastustest olid kasutud, oli ka päris pin nende vahel.
+![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/afd6c44b-92fc-4997-8545-6ad8bdc5e829)
+
 
 flg 1837
+<br>
+REVERSE ENGINEERING)
+Kuna lahenduskäik tundus raskem, siis 5 kohalise, ainult lowercase tähtedest ja numbritest koosneva parooli brute-force murdmine tundub lihtsam.
