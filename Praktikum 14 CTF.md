@@ -1,4 +1,3 @@
-Tegin CTFI kolm või neli korda, iga korraga sain natuke rohkem tehtud.
 <br> Kokku 570P, mis tuleb ülesannetest
 50p network
 120p mailbox
