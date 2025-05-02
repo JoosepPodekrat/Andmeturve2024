@@ -88,6 +88,5 @@ print(response_result)
 ```
 flg fb148ca92d484070b5446b3233eef174
 
-viimase korra screenshot
 ![image](https://github.com/JoosepPodekrat/Andmeturve2024/assets/144919619/47f3c494-4752-44a5-8175-1dc76929a748)
 
